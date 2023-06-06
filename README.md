@@ -57,7 +57,6 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Eduardo Oliveira** - [Eduardo Oliveira](https://github.com/duardoliveiras)
 * **Matheo Bonucia** - [Matheo Bonucia](https://github.com/tanakagl)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## Expressões de gratidão
 
