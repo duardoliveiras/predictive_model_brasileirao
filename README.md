@@ -23,8 +23,10 @@ Essa função retorna a probabilidade do time mandante ganhar, a probabilidade d
 
 ### Analise os testes de ponta a ponta
 Utilizei de uma amostra aleatória obtida do Brasileirão 2023 roda 6/38 e obtemos o seguinte resultado:
-* ML: Modelo preditivo elaborado
-* R: Resultado Real
+
+`ML: Modelo preditivo elaborado`
+
+`R: Resultado Real`
 
 * Bahia 2 x 3 Flamengo `ML: Flamengo R: Flamengo`
 * Fluminense 2 x 0 Cuiaba `ML: Fluminense R: Fluminense`
