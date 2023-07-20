@@ -52,8 +52,6 @@ Utilizei de uma amostra aleatória obtida do Brasileirão 2023 roda 6/38 e obtem
 
 ## Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * **Eduardo Oliveira** - [Eduardo Oliveira](https://github.com/duardoliveiras)
 * **Matheo Bonucia** - [Matheo Bonucia](https://github.com/tanakagl)
 
