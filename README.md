@@ -18,7 +18,7 @@ Conta Google
 
 ## Executando os testes
 
-Para executar o projeto, você pode apertar Ctrl + F9 que vai executar todas as célular notebooks. Ao final do projeto você irá ter acesso aos gráficos e tabelas comprovando o desempenho do modelo proposto. Caso queria testa-lo você mesmo, recomendo adicionar uma célula nova utilizando a função `  previsao_times(mandante, visitante) `.
+Para executar o projeto, você pode apertar `Ctrl + F9` que irá executar todas as células notebooks. Ao final do projeto você irá ter acesso aos gráficos e tabelas comprovando o desempenho do modelo proposto. Caso queria testa-lo você mesmo, recomendo adicionar uma célula nova utilizando a função `  previsao_times(mandante, visitante) `.
 Essa função retorna a probabilidade do time mandante ganhar, a probabilidade do time visitante ganhar e a probabilidade de resultar em empate.
 
 ### Analise os testes de ponta a ponta
